@@ -2,7 +2,7 @@
 title: "Interest Rate Curve Bootstrapping & Risk Testing"
 author:
   - "Pape Kane"
-institute: "HEC Lausanne — Actuarial & Quantitative Finance"
+institute: Msc Student, Computer Science and Physics teacher
 date: today
 title-block-banner: "#1F4E79"
 title-block-banner-color: "white"
